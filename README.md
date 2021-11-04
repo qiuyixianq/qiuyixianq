@@ -6,7 +6,6 @@ const ME = {
   name: 'Yee Xiang',
   email: {
     personal: 'qiuyixianq@gmail.com',
-    work: '7.twodegree@gmail.com'
   },
   interests: 'Software Engineering, Web development, Mobile development',
   education: 'UOWMKDU Glenmarie',
